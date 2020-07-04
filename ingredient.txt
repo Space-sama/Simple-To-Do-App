@@ -1,0 +1,11 @@
+1) - npm init -y :for package.json file.
+
+2) - npm install express :for the server.
+
+3) - npm install nodemon 
+    open file: package.json then hit this line in the script[] code 
+                "watch": "nodemon",
+                then to run the project 
+                just hit this -> npm run watch
+
+4) - 
